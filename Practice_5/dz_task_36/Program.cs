@@ -48,4 +48,4 @@ int [] array = GetArrayRandom(len);
 showArray(array);
 Console.WriteLine();
 int summ = Sum_Digs_in_nech_ind(array);
-Console.WriteLine($"Сумма нечетныхчисел массива равна {summ}");
+Console.WriteLine($"Сумма элементов, стоящих на нечётных позициях равна {summ}");
