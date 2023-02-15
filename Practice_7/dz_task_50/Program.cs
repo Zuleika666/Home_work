@@ -34,7 +34,7 @@ int [,] GetArray(int col, int row, int start, int end)
 
 string FindNum(int [,] array, int num)
 {
-    string res = "";
+    string res = "Такого числа нет";
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
@@ -44,10 +44,7 @@ string FindNum(int [,] array, int num)
                 res = $"позиция вашего числа в массиве [{i},{j}]";
                 break;
             }
-            else
-            {
-                res = "Такого числа нет";
-            }
+ 
         }
     }
     return res;
