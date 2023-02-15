@@ -1,0 +1,16 @@
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\task_53.GlobalUsings.g.cs
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\task_53.csproj.AssemblyReference.cache
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\task_53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\task_53.AssemblyInfoInputs.cache
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\task_53.AssemblyInfo.cs
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\task_53.csproj.CoreCompileInputs.cache
+C:\Practices\Practice_8\task_53\bin\Debug\net6.0\task_53.exe
+C:\Practices\Practice_8\task_53\bin\Debug\net6.0\task_53.deps.json
+C:\Practices\Practice_8\task_53\bin\Debug\net6.0\task_53.runtimeconfig.json
+C:\Practices\Practice_8\task_53\bin\Debug\net6.0\task_53.dll
+C:\Practices\Practice_8\task_53\bin\Debug\net6.0\ref\task_53.dll
+C:\Practices\Practice_8\task_53\bin\Debug\net6.0\task_53.pdb
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\task_53.dll
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\ref\task_53.dll
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\task_53.pdb
+C:\Practices\Practice_8\task_53\obj\Debug\net6.0\task_53.genruntimeconfig.cache
